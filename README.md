@@ -42,25 +42,7 @@
 ---
 
 ## 🚀 Projetos em Destaque  
-*🔧 Em breve mais projetos! Atualmente desenvolvendo uma plataforma educacional integrando Python e React!*
-
----
-
-## 🌐 Contribuições Open Source
-<div align="center">
-  <a href="https://github.com/SkymerLight/SmartLight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SmartLight&theme=dracula&show_owner=true"/>
-  </a>
-</div>
-
----
-
-## 📊 Progresso Anual  
-**Python Avançado**  
-![Progresso](https://progress-bar.dev/75/?title=Python&width=300&color=8A2BE2)  
-
-**Frontend (React)**  
-![Progresso](https://progress-bar.dev/40/?title=React&width=300&color=61DAFB)  
+*🔧 Em breve mais projetos! Atualmente desenvolvendo...*
 
 ---
 
@@ -87,14 +69,6 @@
   </a>
   <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
----
-
-<div align="center" style="margin-top:30px">
-  <a href="mailto:daniel.meira.mat@gmail.com">
-    <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
   </a>
 </div>
 
