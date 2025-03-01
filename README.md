@@ -10,7 +10,7 @@
 
 ## 👨💻 Sobre Mim  
 **Licenciado em Matemática pelo IFBA** 🎓 | **Entusiasta de Tecnologia** 💻  
-*Unindo análise quantitativa e desenvolvimento criativo para construir soluções inovadoras!*  
+
 
 🌱 **Aprendendo atualmente:**  
 - **Desenvolvimento Back-end**  
@@ -87,6 +87,14 @@
   </a>
   <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+---
+
+<div align="center" style="margin-top:30px">
+  <a href="mailto:daniel.meira.mat@gmail.com">
+    <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
   </a>
 </div>
 
