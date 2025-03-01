@@ -34,7 +34,8 @@
 
 ## 🚀 Projetos em Destaque  
 
-| [![SmartLight](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SkymerLight&theme=dracula)]([https://github.com/SkymerLight/SkymerLight](https://github.com/SkymerLight/MysteraLegacy)) | [![CalculadoraIMC](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=CalculadoraIMC&theme=dracula)](https://github.com/SkymerLight/CalculadoraIMC) |
+*Em breve mais projetos!* 🔥
+
 |---|---|
 
 ---
