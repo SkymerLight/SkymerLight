@@ -34,8 +34,7 @@
 
 ## 🚀 Projetos em Destaque  
 
-*Em breve mais projetos!* 🔥
-
+| *Em breve mais projetos!* 🔥 |
 |---|---|
 
 ---
