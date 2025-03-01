@@ -4,7 +4,7 @@
 **Licenciado em Matemática pelo IFBA** 🎓 | **Entusiasta de Tecnologia** 💻  
 
 🌱 Atualmente mergulhado em:  
-- **Desenvolvimento back-endd**  
+- **Desenvolvimento back-end**  
 - **Automações com Python**  
 - **Tecnologias educacionais**  
 
