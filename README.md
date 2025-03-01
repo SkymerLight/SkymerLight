@@ -29,11 +29,11 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
+## 🚀 Projetos em Destaque
 
-| [![SmartLight](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repositories=SmartLight&theme=dracula)](https://github.com/SkymerLight/SmartLight) | *Em breve mais projetos!* 🔥 |
+| [![SmartLight](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SmartLight&theme=dracula)](https://github.com/SkymerLight/SmartLight) | [![CalculadoraIMC](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=CalculadoraIMC&theme=dracula)](https://github.com/SkymerLight/CalculadoraIMC) |
 |---|---|
-https://github.com/SkymerLight?tab=
+
 ---
 
 ## 📫 Contato  
