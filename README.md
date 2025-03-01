@@ -55,12 +55,6 @@
 
 ---
 
-## ✍️ Últimos Artigos  
-- [Como a Matemática Aplica-se ao Desenvolvimento Web](https://dev.to/skymerlight/exemplo)  
-- [Automatizando Tarefas com Python: Um Caso Real](https://dev.to/skymerlight/exemplo)  
-
----
-
 ## 📫 Contato  
 
 <div align="center"> 
