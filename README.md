@@ -68,8 +68,16 @@
 
 ---
 
+## 🎓 Badges de Especialização  
+![Matemática Aplicada](https://img.shields.io/badge/Matemática-Aplicada-8A2BE2?style=flat&logo=Wolfram%20Mathematica&logoColor=white)
+![Educação Tech](https://img.shields.io/badge/Educação-Tecnológica-FF8C00?style=flat&logo=Google%20Classroom&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat&logo=OpenSourceInitiative&logoColor=white)
+
+---
+
 <div align="center" style="margin-top:30px">
   <a href="mailto:daniel.meira.mat@gmail.com">
     <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
   </a>
 </div>
+
