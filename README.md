@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em Destaque  
 
-| *Em breve mais projetos!* 🔥 |
+| [![SmartLight](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SmartLight&theme=dracula)](https://github.com/SkymerLight/SmartLight) | *Em breve mais projetos!* 🔥 |
 |---|---|
 
 ---
