@@ -1,12 +1,16 @@
 # Olá, eu sou o Daniel! 👋
 
+<!--
+  keywords: Desenvolvedor Python, Matemática Aplicada, Educação Tecnológica, Projetos Open Source
+-->
+
 <a href="https://beacons.ai/SkymerLight">
   <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Transformando+equações+em+código;%F0%9F%92%BB+Matemática+%2B+Tecnologia;Desenvolvendo+soluções+educacionais" alt="Typing SVG" />
 </a>
 
 ## 👨💻 Sobre Mim  
 **Licenciado em Matemática pelo IFBA** 🎓 | **Entusiasta de Tecnologia** 💻  
-
+*Unindo análise quantitativa e desenvolvimento criativo para construir soluções inovadoras!*  
 
 🌱 **Aprendendo atualmente:**  
 - **Desenvolvimento Back-end**  
@@ -29,15 +33,32 @@
 ---
 
 ## 🛠️ Stack Tecnológica  
-
-<div style="display: inline_block; margin-top: 20px">  
-  <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
+<div align="center" style="margin: 20px 0">  
+  <img src="https://skill-icons.dev/icons?i=python,cs,git,github,html,css,js,vscode,latex,react,linux,aws,docker&theme=dark&perline=8" height="50" alt="Tecnologias"/>  
 </div>
 
 ---
 
 ## 🚀 Projetos em Destaque  
 *🔧 Em breve mais projetos! Atualmente desenvolvendo uma plataforma educacional integrando Python e React!*
+
+---
+
+## 🌐 Contribuições Open Source
+<div align="center">
+  <a href="https://github.com/SkymerLight/SmartLight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SmartLight&theme=dracula&show_owner=true"/>
+  </a>
+</div>
+
+---
+
+## 📊 Progresso Anual  
+**Python Avançado**  
+![Progresso](https://progress-bar.dev/75/?title=Python&width=300&color=8A2BE2)  
+
+**Frontend (React)**  
+![Progresso](https://progress-bar.dev/40/?title=React&width=300&color=61DAFB)  
 
 ---
 
@@ -50,12 +71,9 @@
 
 ---
 
-## 📚 Recomendações de Leitura  
-<div style="display: inline_block">  
-  <img src="https://img.shields.io/badge/`Clean Code`-ED1C24?style=flat&logo=BookStack&logoColor=white" alt="Clean Code">
-  <img src="https://img.shields.io/badge/`Python Fluente`-3776AB?style=flat&logo=python&logoColor=white" alt="Python Fluente">
-  <img src="https://img.shields.io/badge/`Matemática do Zero`-8A2BE2?style=flat&logo=Wikipedia&logoColor=white" alt="Matemática">
-</div>
+## ✍️ Últimos Artigos  
+- [Como a Matemática Aplica-se ao Desenvolvimento Web](https://dev.to/skymerlight/exemplo)  
+- [Automatizando Tarefas com Python: Um Caso Real](https://dev.to/skymerlight/exemplo)  
 
 ---
 
@@ -68,12 +86,12 @@
   <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
 </div>
 
 ---
 
-## 🎓 Badges de Especialização  
-![Matemática Aplicada](https://img.shields.io/badge/Matemática-Aplicada-8A2BE2?style=flat&logo=Wolfram%20Mathematica&logoColor=white)
-![Educação Tech](https://img.shields.io/badge/Educação-Tecnológica-FF8C00?style=flat&logo=Google%20Classroom&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat&logo=OpenSourceInitiative&logoColor=white)
+<div align="center" style="margin-top:30px">
+  <a href="mailto:daniel.meira.mat@gmail.com">
+    <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
+  </a>
+</div>
