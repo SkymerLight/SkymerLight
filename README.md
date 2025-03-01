@@ -11,7 +11,7 @@
 🌱 **Aprendendo atualmente:**  
 - **Desenvolvimento Back-end**  
 - **Automações com Python**  
-- **Tecnologias educacionais** 
+- **Tecnologias educacionais**
 
 🎯 **Objetivo:**  
 *Criar ferramentas educacionais que tornem o aprendizado de matemática mais interativo*
@@ -32,14 +32,23 @@
 
 ## 🛠️ Stack Tecnológica  
 
-<div style="display: inline_block; margin-top: 20px">  
-  <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
+<div align="center" style="margin: 20px 0">  
+  <img src="https://skill-icons.dev/icons?i=python,cs,git,github,html,css,js,vscode,latex,react" height="45" alt="Tecnologias"/>  
 </div>
 
 ---
 
 ## 🚀 Projetos em Destaque  
 *🔧 Em breve mais projetos! Atualmente desenvolvendo uma plataforma educacional integrando Python e React!*
+
+---
+
+## 📚 Trilha de Aprendizado  
+<div align="center" style="margin-top:20px">
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
+</div>
 
 ---
 
