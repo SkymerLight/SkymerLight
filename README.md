@@ -24,16 +24,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkymerLight&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
     <img height="180em" src="https://streak-stats.demolab.com?user=SkymerLight&theme=dracula&hide_border=true"/>
   </a>
-  <br>
-  ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=SkymerLight&theme=dracula&hide_border=true&area=true)
 </div>
 
 ---
 
 ## 🛠️ Stack Tecnológica  
 
-<div align="center" style="margin: 20px 0">  
-  <img src="https://skill-icons.dev/icons?i=python,cs,git,github,html,css,js,vscode,latex,react" height="45" alt="Tecnologias"/>  
+<div style="display: inline_block; margin-top: 20px">  
+  <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
 </div>
 
 ---
@@ -61,7 +59,7 @@
 
 ---
 
-## 📫 Conecte-se Comigo  
+## 📫 Contato  
 
 <div align="center"> 
   <a href="https://www.instagram.com/danielmeira8" target="_blank">
@@ -70,9 +68,7 @@
   <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://dev.to/skymerlight" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-  </a>
+
 </div>
 
 ---
