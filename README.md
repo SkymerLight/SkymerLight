@@ -3,11 +3,14 @@
 ## 👨💻 Sobre Mim  
 **Licenciado em Matemática pelo IFBA** 🎓 | **Entusiasta de Tecnologia** 💻  
 
+
 🌱 Atualmente mergulhado em:  
-- **Desenvolvimento back-end**  
+- **Desenvolvimento FullStack**  
 - **Automações com Python**  
 - **Tecnologias educacionais**  
 
+🎯 Objetivo:  
+*Criar soluções que unam educação e inovação tecnológica*
 
 ---
 
@@ -29,14 +32,14 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque  
 
 | [![SmartLight](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=SmartLight&theme=dracula)](https://github.com/SkymerLight/SmartLight) | [![CalculadoraIMC](https://github-readme-stats.vercel.app/api/pin/?username=SkymerLight&repo=CalculadoraIMC&theme=dracula)](https://github.com/SkymerLight/CalculadoraIMC) |
 |---|---|
 
 ---
 
-## 📫 Contato  
+## 📫 Conecte-se Comigo  
 
 <div> 
   <a href="https://www.instagram.com/danielmeira8" target="_blank">
@@ -45,13 +48,4 @@
   <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://beacons.ai/SkymerLight" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
 </div>
-
----
-
-## 📚 Aprendizado Contínuo  
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
