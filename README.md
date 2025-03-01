@@ -33,9 +33,11 @@
 ---
 
 ## 🛠️ Stack Tecnológica  
-<div align="center" style="margin: 20px 0">  
-  <img src="https://skill-icons.dev/icons?i=python,cs,git,github,html,css,js,vscode,latex,react,linux,aws,docker&theme=dark&perline=8" height="50" alt="Tecnologias"/>  
+
+<div style="display: inline_block; margin-top: 20px">  
+  <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
 </div>
+
 
 ---
 
