@@ -5,7 +5,7 @@
 -->
 
 <a href="https://beacons.ai/SkymerLight">
-  <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Transformando+equações+em+código;%F0%9F%92%BB+Matemática+%2B+Tecnologia;Desenvolvendo+soluções+educacionais" alt="Typing SVG" />
+  <img align="right" width="300" src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&size=14&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Transformando+equações+em+código;%F0%9F%92%BB+Matemática+%2B+Tecnologia;Desenvolvendo+soluções+educacionais" alt="Typing SVG" />
 </a>
 
 ## 👨💻 Sobre Mim  
