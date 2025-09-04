@@ -1,31 +1,25 @@
-# Olá, eu sou o Daniel! 👋
+# Olá, eu sou o Daniel! 👋  
 
-<!--
-  keywords: Desenvolvedor Python, Matemática Aplicada, Educação Tecnológica, Projetos Open Source
--->
+<img align="right" alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&lines=Licenciado+em+Matemática;Mestrando+em+PPGMC+-+UESC;Entusiasta+de+Tecnologia;Sempre+aprendendo+novas+coisas&center=true&width=380&height=45"/>
 
-<a href="https://beacons.ai/SkymerLight">
-  <img align="right" width="300" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Transformando+equações+em+código;💻+Matemática+%2B+Tecnologia;Desenvolvendo+soluções+educacionais" alt="Typing SVG" />
-</a>
+## 👨‍💻 Sobre Mim  
 
-
-## 👨💻 Sobre Mim  
-**Licenciado em Matemática pelo IFBA** 🎓 |  **Mestrando PPGMC - UESC** 📚  | **Entusiasta de Tecnologia** 💻  
+🎓 **Licenciado em Matemática pelo IFBA** | 📚 **Mestrando PPGMC - UESC** | 💻 **Entusiasta de Tecnologia ** 
 
 🌱 **Aprendendo atualmente:**  
-- **Desenvolvimento Back-end**  
-- **Automações com Python**  
-- **Tecnologias educacionais**
+- Desenvolvimento Back-end  
+- Automações com Python  
+- Tecnologias educacionais  
 
 🎯 **Objetivo:**  
-*Criar ferramentas educacionais que tornem o aprendizado de matemática mais interativo*
+*Criar ferramentas educacionais que tornem o aprendizado de matemática mais interativo*  
 
 ---
 
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <a href="https://beacons.ai/SkymerLight">
+  <a href="https://github.com/SkymerLight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkymerLight&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkymerLight&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=320"/>
   </a>
@@ -39,48 +33,21 @@
 
 ## 🛠️ Stack Tecnológica  
 
-<div style="display: inline_block; margin-top: 20px">  
-  <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="LaTeX" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque  
-*🔧 Em breve mais projetos! Atualmente desenvolvendo...*
+## 📫 Como me encontrar  
 
----
-
-## 📚 Trilha de Aprendizado  
-<div align="center" style="margin-top:20px">
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
-  <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
-  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
-</div>
-
----
-
-## 📫 Contato  
-
-<div align="center"> 
-  <a href="https://www.instagram.com/danielmeira8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:daniel.meira.mat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
----
-
-## 🎓 Badges de Especialização  
-![Matemática Aplicada](https://img.shields.io/badge/Matemática-Aplicada-8A2BE2?style=flat&logo=Wolfram%20Mathematica&logoColor=white)
-![Educação Tech](https://img.shields.io/badge/Educação-Tecnológica-FF8C00?style=flat&logo=Google%20Classroom&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=flat&logo=OpenSourceInitiative&logoColor=white)
-
----
-
-<div align="center" style="margin-top:30px">
-  <a href="mailto:daniel.meira.mat@gmail.com">
-    <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
-  </a>
-</div>
+- 📧 Email: **seuemail@email.com**  
+- 💼 LinkedIn: [Daniel Souza](https://linkedin.com/in/seu-linkedin)  
+- 🐙 GitHub: [SkymerLight](https://github.com/SkymerLight)  
