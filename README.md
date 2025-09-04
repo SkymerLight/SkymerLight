@@ -9,7 +9,7 @@
 </a>
 
 ## 👨💻 Sobre Mim  
-🎓 **Licenciado em Matemática pelo IFBA** | 📚 **Mestrando PPGMC - UESC** | 💻 **Entusiasta de Tecnologia**   
+🎓 **Licenciado em Matemática pelo IFBA**  | 📚 **Mestrando PPGMC - UESC**  | 💻 **Entusiasta de Tecnologia**   
 
 🌱 **Aprendendo atualmente:**  
 - **Desenvolvimento Back-end**  
