@@ -10,7 +10,7 @@
 
 
 ## 👨💻 Sobre Mim  
-**Licenciado em Matemática pelo IFBA** 🎓 | **Entusiasta de Tecnologia** 💻  
+**Licenciado em Matemática pelo IFBA** 🎓 |  Mestrando PPGMC - UESC | **Entusiasta de Tecnologia** 💻  
 
 
 🌱 **Aprendendo atualmente:**  
