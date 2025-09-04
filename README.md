@@ -10,8 +10,7 @@
 
 
 ## 👨💻 Sobre Mim  
-**Licenciado em Matemática pelo IFBA** 🎓 |  Mestrando PPGMC - UESC | **Entusiasta de Tecnologia** 💻  
-
+**Licenciado em Matemática pelo IFBA** 🎓 |  **Mestrando PPGMC - UESC** | **Entusiasta de Tecnologia** 💻  
 
 🌱 **Aprendendo atualmente:**  
 - **Desenvolvimento Back-end**  
@@ -23,12 +22,17 @@
 
 ---
 
+## 📊 Estatísticas do GitHub  
+
 <div align="center">
   <a href="https://beacons.ai/SkymerLight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkymerLight&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkymerLight&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-    <img height="180em" src="https://streak-stats.demolab.com?user=SkymerLight&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkymerLight&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkymerLight&layout=compact&theme=dracula&hide_border=true&langs_count=10&card_width=320"/>
   </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=SkymerLight&theme=dracula&hide_border=true"/>
 </div>
 
 ---
@@ -38,7 +42,6 @@
 <div style="display: inline_block; margin-top: 20px">  
   <img src="https://skillicons.dev/icons?i=python,cs,git,github,html,css,javascript,vscode,latex" height="40" alt="Tecnologias"/>  
 </div>
-
 
 ---
 
@@ -81,4 +84,3 @@
     <img src="https://img.shields.io/badge/Disponível_para-Colaborações-8A2BE2?style=for-the-badge&logo=GitHubSponsors&logoColor=white"/>
   </a>
 </div>
-
